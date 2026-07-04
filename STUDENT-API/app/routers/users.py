@@ -3,8 +3,7 @@ from fastapi import APIRouter, Depends, Request
 from app.models.user import User
 from app.schemas.user import UserResponse
 from app.utils.security import get_current_user
-
-from app.limiter import limiter
+from app.utils.limiter import limiter
 
 router = APIRouter(prefix="/users", tags= ["Users"])
 

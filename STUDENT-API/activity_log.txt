@@ -1,0 +1,11 @@
+2026-07-03 17:46:19.552043 | User_id: 1 | Action: User registered
+2026-07-03 17:46:27.811250 | User_id: 1 | Action: User logged in
+2026-07-03 17:47:10.274283 | User_id: 1 | Action: Student added
+2026-07-03 17:47:46.345398 | User_id: 1 | Action: Student fully updated
+2026-07-03 17:48:06.322387 | User_id: 1 | Action: Student partially updated
+2026-07-03 17:48:12.598895 | User_id: 1 | Action: Student deleted
+2026-07-03 17:48:29.301159 | User_id: 1 | Action: User logged in
+2026-07-03 17:48:32.441511 | User_id: 1 | Action: User logged in
+2026-07-03 17:48:35.945137 | User_id: 1 | Action: User logged in
+2026-07-03 17:48:39.153702 | User_id: 1 | Action: User logged in
+2026-07-03 17:48:41.111307 | User_id: 1 | Action: User logged in
